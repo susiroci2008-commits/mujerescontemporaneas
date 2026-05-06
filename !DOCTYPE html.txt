@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>MUJERES CONTEMPORANEAS</title>
+
+
+</head>
+
+<body>
+
+<h1>MUJERES CONTEMPORÁNEAS</h1>
+
+<p>Laura Lechuga.</p>
+<img src="laura.jpg" alt="Laura" style="width:300px">
+<p><a href="laura.html" target="_blank">
+Leer mas sobre Laura!!</a></p>
+
+<p>Natalia Larrea.</p>
+</a><img src="Natalia Larrea.jpg" alt="Natalia" style="width:400px">
+<p><a href="natalia.html" target="_blank>
+Leer mas sobre Natalia!</a></p>
+
+
+</body>
+</html>

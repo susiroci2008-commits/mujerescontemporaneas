@@ -1,0 +1,9 @@
+.contenedor {
+    display: flex;
+    justify-content: space-around; /* separa las columnas */
+    align-items: flex-start;
+}
+
+.persona {
+    text-align: center;
+}

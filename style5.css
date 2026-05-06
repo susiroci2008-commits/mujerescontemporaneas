@@ -1,0 +1,22 @@
+.perfil {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+}
+.tabla-vertical {
+    border-collapse: collapse;
+    width: 400px;
+}
+
+.tabla-vertical th {
+    background-color: #FF91A4;
+    color: white;
+    text-align: left;
+    padding: 8px;
+    width: 120px;
+}
+
+.tabla-vertical td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}

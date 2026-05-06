@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Natalia Larrea</title>
+</head>
+<body>
+
+  <img src="natalia larrea.jpg" alt="Natalia" style="width:300px">
+
+<h3>Natalia Larrea Brito es una destacada ingeniera de telecomunicaciones y experta en el sector aeroespacial, reconocida internacionalmente por su liderazgo en la exploración planetaria y la consultoría estratégica espacial. Actualmente es la Directora de la oficina de Euroconsult en Estados Unidos (Washington D.C.), una de las firmas globales de consultoría más influyentes en el mercado de satélites y espacio.Su trayectoria es un ejemplo de excelencia académica y profesional: tras formarse en España y Canadá, se convirtió en la primera española en participar en la prestigiosa NASA Academy. Ha trabajado como investigadora en el Ames Research Center de la NASA, en la Agencia Espacial Europea (ESA) y como ingeniera de sistemas en la industria privada canadiense, consolidándose como un puente entre la ingeniería técnica y la estrategia de negocio espacial.A lo largo de su carrera ha alcanzado hitos muy mediáticos, como liderar en 2019 una misión simulada a Marte en el desierto de Utah como comandante, coordinando experimentos críticos para futuras colonias humanas. Su impacto en el sector ha sido reconocido con distinciones como el premio "35 under 35" del International Institute of Space Commerce y el galardón de "International Emerging Space Leader", posicionándola como una de las voces más autorizadas para definir el futuro de la economía espacial.</h3>
+
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/-UMHOjsojJM?si=gc-edKJhMjJuVVne" title="YouTube             video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-         in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h1>Premios</h1>
+
+<h2>Promise Award (2019)</h2>  <h3>Otorgado por la Space & Satellite Professionals International (SSPI). Es uno de los galardones más prestigiosos para jóvenes profesionales que demuestran un potencial excepcional para liderar la industria satelital.</h3>
+
+<h2>20 Under 35</h2>  <h3>También de la SSPI, que la sitúa en la lista de las 20 personas menores de 35 años más influyentes y con mayor proyección en el sector espacial a nivel mundial.</h3>
+
+<h2>35 Under 35 Space Industry Award</h2>  <h3>Concedido por el International Institute of Space Commerce (IISC), reconociendo su excelencia y contribución al comercio y la economía espacial.</h3>
+
+<h2>Top 100 Most Powerful Women in Canada (2022)</h2>  <h3>Fue incluida en este ranking por la Women Executive Network (WXN), destacando su influencia en puestos de alta dirección y su impacto en el sector aeroespacial norteamericano.</h3>
+
+<h1>Reconocimientos</h1>
+
+<h2>International Emerging Space Leader</h2> <h3>Elegida por la Mars Society en 2018. Este título fue el que la llevó a ser seleccionada como comandante de la misión análoga a Marte en el desierto de Utah (Crew 205).</h3>
+
+<h2>Beca de Excelencia de la Fundación "la Caixa"</h2> <h3>Un reconocimiento clave en el inicio de su carrera que le permitió realizar sus estudios de postgrado en el extranjero y acceder a instituciones como la NASA.</h3>
+
+
+<h1>Enlaces de interes</h1>
+
+<h3>https://becarios.fundacionlacaixa.org/historias/perfil/-/fucontent/natalia-larrea-nasa-academy-</h3>
+<h3>https://www.youtube.com/watch?v=ajrNIPLCh3k</h3>
+<h3>https://buscamoscientificas.com/dibujo/natalia-larrea-3456/</h3>
+
+</body>
+</html>
